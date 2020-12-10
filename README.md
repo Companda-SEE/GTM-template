@@ -5,9 +5,9 @@ Companda SEE API implementation for GTM and GA
 With this template you can easily integrate the SEE API into 
 your Google tag manager and Google Analytics environments.
 
-###For more information see our:
-####[Website](www.companda.com)
-####[Developer resource](developer.companda.com)
-####[Portal](portal.companda.com)
+### For more information see our:
+#### [Website](https://www.companda.com/)
+#### [Developer resource](https://developer.companda.com/)
+#### [Portal](https://portal.companda.com/)
 
 
