@@ -1,5 +1,5 @@
 homepage: "https://www.companda.com/"
 documentation: "https://developer.companda.com/"
 versions:
-  - sha: 5da3b9ddbd26e04b118d09ae04073faa8b695abe
+  - sha: 0b52cac8bd1073607c27427ef5b391fd0763d6c2
     changeNotes: Initial release.
